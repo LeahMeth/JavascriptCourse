@@ -54,7 +54,9 @@ x--;
 console.log(x);
 
 // Comparison Operators
-console.log(ageBob < ageShmoe); // <, >, <=, >= */
+console.log(ageBob < ageShmoe); // <, >, <=, >= 
+
+*/
 
 //////////////////////////////////////////////////////////////////////////////////////
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
