@@ -220,4 +220,7 @@ leah.hasDriversLicense = false;
 leah.getSummary();
 console.log(leah.summary); */
 
-//
+// ITERATION: THE FOR LOOP
+for (let rep = 1; rep <= 10; rep++){
+    console.log('iteration ' + rep);
+}
